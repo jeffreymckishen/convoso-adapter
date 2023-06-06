@@ -1,0 +1,17 @@
+{
+  "name": "@jeffreymckishen/convoso-adapter",
+  "version": "0.0.1",
+  "description": "Middleware to do Api requests to convoso dialer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "convoso"
+  ],
+  "author": "jeffrey Mckishen",
+  "license": "MIT",
+  "dependencies": {
+    "@jeffreymckishen/convoso-adapter": "file:"
+  }
+}
